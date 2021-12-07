@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jimboWWW
+- 👋 Hi, I’m @JimWight
 - 👀 I’m interested in developing ERP systems for the textile industry
 - 🌱 I’m currently learning the basics of Apex and Visualforce
 - 💞️ I’m looking to collaborate on developing solutions on Salesforce platform
